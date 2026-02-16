@@ -1,9 +1,9 @@
 {
-    "version": "3.0.0",
+    "version": "3.1.0",
     "luncher_version": "1.0",
-    "downloadUrl": "https://85af707cdbc8a7b243573961f1e042d6.r2.cloudflarestorage.com/games/2.1.1/game.zip",
+    "downloadUrl": "https://85af707cdbc8a7b243573961f1e042d6.r2.cloudflarestorage.com/games/3.0.0/game.zip",
     "luncher_download_url": "https://85af707cdbc8a7b243573961f1e042d6.r2.cloudflarestorage.com/games/Corruptions%20End%20Launcher.exe",
-    "changelog": "- Major optimization pass applied\n- Enhanced performance and stability on low-end PCs\n- Reduced lag and improved frame rates for smoother gameplay",
+    "changelog": "- Dynamic lighting with cinematic shadows.\n- Improved frame rate stability across all devices.\r\n",
     "fileSize": 0,
     "underMaintenance": false,
     "maintenanceMessage": "Server is under maintenance. Please try again later."
